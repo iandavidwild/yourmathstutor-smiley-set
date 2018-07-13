@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE package-info SYSTEM "http://www.simplemachines.org/xml/package-info">
+<package-info xmlns="http://www.simplemachines.org/xml/package-info" xmlns:smf="http://www.simplemachines.org/">
+  <id>Lumina:YourMathsTutor_smileys</id>
+  <name>Your Maths Tutor smiley set</name>
+  <version>0.1</version>
+  <type>avatar</type>
+  <install>
+    <readme type="file">Terms_of_Use.txt</readme>
+    <require-dir name="yourmathstutor" destination="$smileysdir" />
+  </install>
+  <uninstall>
+    <remove-dir name="$smileysdir/yourmathstutor" />
+  </uninstall>
+</package-info>
