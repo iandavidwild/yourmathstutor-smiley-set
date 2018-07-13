@@ -1,4 +1,4 @@
-##A Simple Machines Forum Animated Smiley Set
+# A Simple Machines Forum Animated Smiley Set
 
 The images included in this smiley set are taken from the following link:
 
